@@ -1,4 +1,3 @@
-// 檔名：AVLDeleteExercise.java
 public class AVLDeleteExercise {
     static class Node {
         int val, height;
